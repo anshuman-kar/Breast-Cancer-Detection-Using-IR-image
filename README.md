@@ -9,7 +9,7 @@ Early detection of breast cancer significantly improves treatment success rates.
 
 ---
 ## 📊 Key Features
-![Model Workflow](https://github.com/your-username/Breast-Cancer-Detection/blob/main/model_workflow.png)
+![Model Workflow](https://github.com/anshuman-kar/Breast-Cancer-Detection-Using-IR-image/blob/main/Picture1.png)
 - 🔬 **Infrared Image Analysis** – Uses thermal imaging to detect anomalies.
 - 🧠 **Deep Learning (CNN)** – Extracts complex features from IR images.
 - 📈 **SVM for Classification** – Enhances prediction accuracy.
