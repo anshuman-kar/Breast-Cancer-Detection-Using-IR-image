@@ -46,6 +46,7 @@ The dataset includes:
 ✅ **Feature extraction enhances SVM classification** capabilities.  
 ✅ **IR imaging can be a viable non-invasive alternative** for early breast cancer detection.  
 
+![Model Workflow](https://github.com/anshuman-kar/Breast-Cancer-Detection-Using-IR-image/blob/main/Picture2.png)
 ---
 ## 🔍 How to Run
 1. Clone the repository:
