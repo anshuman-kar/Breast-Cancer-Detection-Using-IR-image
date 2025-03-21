@@ -54,5 +54,6 @@ The dataset includes:
    git clone https://github.com/your-username/Breast-Cancer-Detection.git
    cd Breast-Cancer-Detection
 📩 Dataset Access
-For dataset inquiries, please contact me at [anshumankar271@gmail.com/7848969032].
-
+📢 FOR DATASET INQUIRIES, CONTACT ME AT:
+✉️ anshumankar271@gmail.com
+📞 7848969032
